@@ -28,6 +28,7 @@ public class Cross_browsing {
 			driver.get("https://www.amazon.in/");
 			driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 			driver.manage().window().maximize();
+			System.out.println("thi sis");
 			break;
 		case "edge":
 			System.setProperty("Webdriver.edge.driver", "C:\\Users\\mahid\\OneDrive\\Desktop\\Selenium\\edgedriver_win64\\msedgedriver.exe");
