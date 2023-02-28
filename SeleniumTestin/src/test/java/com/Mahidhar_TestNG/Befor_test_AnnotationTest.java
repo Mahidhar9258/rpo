@@ -7,6 +7,7 @@ public class Befor_test_AnnotationTest {
 	@Test
 	  public void login() {
 		  System.out.println("This is login application");
+		  System.out.println("This is login application");
 	  }
 	  @Test
 	  public void Senddata() {
