@@ -7,6 +7,7 @@ public class Before_class {
 	@BeforeClass
 	  public void login() {
 		  System.out.println("This is login application");
+		  System.out.println("This is login application");
 	  }
 	@BeforeClass
 	  public void Senddata() {
