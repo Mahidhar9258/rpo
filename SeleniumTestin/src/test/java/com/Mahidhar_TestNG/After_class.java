@@ -8,6 +8,7 @@ public class After_class {
 	@BeforeClass
 	  public void login() {
 		  System.out.println("This is login application");
+		  System.out.println("This is login change application");
 	  }
 	  @Test
 	  public void Senddata() {
