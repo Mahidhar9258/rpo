@@ -11,6 +11,7 @@ public class Before_MEthod {
 	  @Test
 	  public void Senddata() {
 		  System.out.println("We need to send data");
+		  System.out.println("This is login application");
 	  }
 	  @Test
 	  public void click_element() {
